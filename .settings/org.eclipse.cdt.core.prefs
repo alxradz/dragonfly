@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042.2068343804/ARDUINO_SDK/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042.2068343804/ARDUINO_SDK/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042.2068343804/ARDUINO_SDK/value=/opt/arduino-1.0.5
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042.2068343804/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042.2068343804/appendContributed=true
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042/ARDUINO_SDK/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042/ARDUINO_SDK/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042/ARDUINO_SDK/value=/opt/arduino-1.0.5
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.base.369270042/appendContributed=true
